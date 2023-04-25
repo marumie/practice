@@ -1,0 +1,58 @@
+body{
+	font-family: "Yu Gothic";
+}
+
+li{
+	list-style: none;
+}
+
+.header{
+	background-color: #708090;
+	color: #ffffff;
+	height: 130px;
+}
+
+.header h1{
+	font-size: 30px;
+	padding: 20px 10px 10px 40px;
+	float: left;
+}
+
+.header li{
+	font-size: 13px;
+	padding: 4px;
+}
+
+.header-list{
+	float: right;
+	padding-top: 5px;
+	padding-right: 60px;
+}
+
+.header span{
+	color:#f0e68c;
+}
+
+.main{
+	height: 1000px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.section-title{
+	clear: both;
+}
+
+.main img{
+	height: 200px;
+	margin-right: 50px;
+}
+
+.main div{
+	float: left;
+}
+
+.footer{
+	background-color: #708090;
+	height: 200px;
+}
